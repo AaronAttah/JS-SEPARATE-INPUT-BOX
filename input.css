@@ -1,0 +1,41 @@
+html{
+    background-image: url('pic 10.jpg');
+    background-repeat: repeat;
+}
+#all-input{
+    width:1400px;
+    display: flex;
+   
+   
+}
+input{
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+    border: 3px solid rgb(128, 125, 125);
+}
+input:focus {
+        background-color: ;
+        border: 10px solid #3d0b03;
+}
+
+form{
+    border: 3px solid rgb(158, 156, 156);
+    border-style: ridge;
+    width: 285px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 200px;
+    background-color: rgb(255, 255, 255);
+}
+#close{
+    margin: 10px;
+}
+
+.verifybut{
+    width: 260px ;
+    background-color: black;
+    color: white;
+    font-family: forte;
+}
