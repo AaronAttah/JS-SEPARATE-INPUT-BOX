@@ -1,9 +1,15 @@
 html{
+    
+
+}
+
+body{
     background-image: url('pic 10.jpg');
     background-repeat: repeat;
+    width: 100%;
 }
 #all-input{
-    width:1400px;
+    /* width:1400px; */
     display: flex;
    
    
@@ -15,7 +21,7 @@ input{
     border: 3px solid rgb(128, 125, 125);
 }
 input:focus {
-        background-color: ;
+        /* background-color: ; */
         border: 10px solid #3d0b03;
 }
 
